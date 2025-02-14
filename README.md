@@ -1,6 +1,16 @@
-## NOM : TODO
-## PRENOM: TODO
+# guess_number
 
-# Lib ajoutées en plus du starter (si nécessaire)
+A new Flutter project.
 
-- TODO : raison de pourquoi j'ai ajouté cette lib
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
